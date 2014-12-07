@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FamilyWatch</string>
+    <string name="click_to_call_or_message">Click to call or message</string>
+    <string name="timestamp">Timestamp : </string>
+    <string name="are_you_ok">Ask: Are you ok??</string>
+    <string name="are_you_ok_sms">Are you ok??</string>
+    <string name="when_are_you_coming">Ask: when are you coming?</string>
+    <string name="when_are_you_coming_sms">When are you coming?</string>
+    <string name="custom_message">Custom message</string>
+    <string name="call">Call</string>
+    <string name="choose_action">What do you want to do?</string>
+    <string name="add_family_member">Add Family Member</string>
+    <string name="greeting">Hi  </string>
+    <string name="invite_sms">, I would like to invite you to my family on the app: FamilyWatch. Please download it here [INSERT LINK]</string>
+</resources>
